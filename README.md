@@ -1,16 +1,18 @@
-# quotopia
+# Quotopia
 
-A new Flutter project.
+A flutter app that displays famous quotes from prominent leaders and inspirational individuals from history.
 
-## Getting Started
+## What I learned during development
 
-This project is a starting point for a Flutter application.
+* How to implement if statements in dart using varying domains of complexity
+* How to create a personalised app icon
+* How to implement and reuse multiple functions in dart 
+* How to link buttons to more than one "action" 
+* How to style text displayed on app screen 
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Shots of App
+![Screenshot (512)](https://github.com/Sai42021/Quotopia/assets/83239286/6608df5d-f645-4914-983b-bd6529953578)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot (513)](https://github.com/Sai42021/Quotopia/assets/83239286/3838037a-9130-4ea8-af97-dd9a82d94c32)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (514)](https://github.com/Sai42021/Quotopia/assets/83239286/28c5f0fa-f532-4e88-8434-c9c22518fcb4)
